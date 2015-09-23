@@ -4,7 +4,7 @@
  *
  * @link https://codex.wordpress.org/Template_Hierarchy
  *
- * @package _s
+ * @packageNicholls 2015 Core
  */
 
 get_header(); ?>
